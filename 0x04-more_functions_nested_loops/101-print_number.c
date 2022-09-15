@@ -44,5 +44,3 @@ void print_number(int n)
 		d = d / 10;
 	}
 }
-Footer
-
