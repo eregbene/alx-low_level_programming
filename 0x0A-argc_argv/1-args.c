@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include "main.h"
+#define UNUSED(x) (void)(x)
+
 /**
 * main - print the number of arguments passed to the program
 *   @argc: number of arguments

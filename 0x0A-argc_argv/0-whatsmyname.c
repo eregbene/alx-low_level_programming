@@ -1,6 +1,6 @@
-nclude <stdio.h>
+#include <stdio.h>
 #include "main.h"
-
+#define UNUSED(x) (void)(x)
 /**
  *   main - prints the name of the program
  *   @argc: number of arguments
